@@ -1,0 +1,99 @@
+[{
+  "id": 1,
+  "company": "Treasury Prime",
+  "role": "DevOps Engineer",
+  "location": "San Francisco, CA",
+  "start_date": "04/2022",
+  "end_date": "03/2024",
+  "bullet_points": [{
+    "id": 1,
+    "bullet": "Reduced friction in incident management process with automation of manual tasks with AWS Lambda while increasing retro documentation participation by 90%"
+  },
+  {
+    "id": 1,
+    "bullet": "Created an automated monitoring script, that compared 100s of tables to alert when data leaks occurred"
+  },
+   {
+    "id": 2,
+    "bullet": "Implemented 25+ data pipelines moving data between RDS Postgres databases, Snowflake/Redshift Data Warehouse, and S3 buckets"
+  },
+   {
+    "id": 3,
+    "bullet": "Led ETL system adaption across organization to create data pipelines for 15+ projects"
+  },
+  {
+    "id": 4,
+    "bullet": "Instituted, secured and configured 15 RDS databases for optimal functionality with minimal security risk"
+  },
+ {
+    "id": 5,
+    "bullet": "Decreased ETL DBT transformation sync times by 60% with query optimization"
+  },
+ {
+    "id": 6,
+    "bullet": "Built 40+ tools in JavaScript and React for support team leading to a 50% reduction in engineering related tickets"
+  }    
+  ]
+},
+{
+  "id": 2,
+  "company": "Natera",
+  "role": "Software Support Engineer 3",
+  "location": "San Carlos, CA",
+  "start_date": "03/2021",
+  "end_date": "04/2022",
+  "bullet_points": [
+    {
+      "id": 1,
+      "bullet": "Provided top tier software support for laboratory information systems to 100s of lab employees"
+    },
+    {
+      "id": 2,
+      "bullet": "Contributed to 20% of monthly ticket resolution"
+    },
+    {
+      "id": 3,
+      "bullet": "Pushed 25+ groovy scripts to support code repository"
+    },
+    {
+      "id": 4,
+      "bullet": "Liaised between customers and product development teams for bug reporting and feature requests"
+    },
+    {
+      "id": 5,
+      "bullet": "Spearheaded new-hire training program decreasing onboarding time from 90 days to 60 days"
+    },
+    {
+      "id": 5,
+      "bullet": "Created 100s of technical support documents outlining problem resolution steps"
+    }
+  ]
+},
+{
+  "id": 3,
+  "company": "Apolis",
+  "role": "Software Support Engineer at Electric Power Research Institute",
+  "location": "Palo Alto, CA",
+  "start_date": "09/2020",
+  "end_date": "03/2021",
+  "bullet_points": [{
+    "id": 1,
+    "bullet": "Traced root causes of malfunction using specific diagnostic procedures, scripts and programs"
+  },
+  {
+    "id": 2,
+    "bullet": "Documented software bugs and troubleshooting steps for 100's of clients"
+  },
+  {
+    "id": 3,
+    "bullet": "Prioritized, triaged, and diagnosed technical issues in C# and Visual Basic"
+  },
+  {
+    "id": 4,
+    "bullet": "Implemented test automation process with Ranorex Studio"
+  },
+  {
+    "id": 5,
+    "bullet": "Deployed, configured and maintained SQL server"
+  }]
+}]

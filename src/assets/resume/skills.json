@@ -1,0 +1,20 @@
+[{
+  "id": 1,
+  "skill": "AWS"
+},
+{
+  "id": 2,
+  "skill": "Python Scripting"
+},
+{
+  "id": 3,
+  "skill": "SQL"
+},
+{
+  "id": 4,
+  "skill": "Terraform"
+},
+{
+  "id": 5,
+  "skill": "Git"
+}]

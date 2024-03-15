@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-container {
+  padding: 100px;
+  margin: 10px;
+}
+
+.content-section-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.content-list {
+  padding: 10px;
+  display: flex;
+}
+
+.content-item {
+  width: 300px;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  padding: 5px;
+}
+
+.image-container {
+  position: relative;
+  height: 200px;
+}
+
+.content-item-header {
+  padding: 10px;
+  font-size: 17px;
+}
+
+.content-item-header > div:nth-child(1) {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.navigation-list {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-item {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+

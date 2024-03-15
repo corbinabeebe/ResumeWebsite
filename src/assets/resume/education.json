@@ -1,0 +1,12 @@
+[{
+  "id": 1,
+  "degree": "Master of Science in Software Engineering",
+  "school": "California State University - Fullerton",
+  "graduation_date": "05/2022"
+},
+{
+  "id": 2,
+  "degree": "Bachelor of Science in Computer Science",
+  "school": "Colorado State University Global Campus",
+  "graduation_date": "07/2020"
+}]
