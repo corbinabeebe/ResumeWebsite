@@ -1,7 +1,7 @@
-{
+[{
   "id": 1,
-  "provider": "Amazon Web Services Training and Certification,",
-  "certificat": "AWS Certified Cloud Practitioner",
+  "provider": "Who issued the cert, AWS, CompTIA etc",
+  "certificate": "certificate name",
   "grant_date": "March 2024",
   "expiration": "March 2027"
-}
+}]

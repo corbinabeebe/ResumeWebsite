@@ -8,9 +8,8 @@ export function Education() {
 
   return (
     <>
-      <div className="container">
       <div className="ml-1 font-bold text-xl">Education</div>
-      <hr className="mr-10"/>
+      <hr className="mr-10 mb-2"/>
         <div className="grid grid-rows-2">
           {content.map(item =>
             <div key={item.id}>
@@ -30,14 +29,9 @@ export function Education() {
               </div>
             </div>
             )}
-
           <div>
-            
           </div>
-
         </div>
-      </div>
     </>
-    
   )
 }
