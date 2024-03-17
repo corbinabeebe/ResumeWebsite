@@ -1,10 +1,10 @@
 {
-  "name": "Corbin Beebe",
-  "role": "DevOps Engineer",
+  "name": "Name Goes Here",
+  "role": "Job Role",
   "phone_number": "555-555-5555",
-  "location": "Carmichael, CA",
-  "email": "corbinbeebe@gmail.com",
-  "website": "https://portfolio.cbeebe.net",
-  "linkedIn": "https://www.linkedin.com/in/corbin-beebe",
-  "github": "https://www.github.com/corbinabeebe"
+  "location": "Location",
+  "email": "email here",
+  "website": "site goes here website",
+  "linkedIn": "linked in",
+  "github": "github link"
 }

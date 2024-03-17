@@ -11,16 +11,14 @@ export function AboutMe() {
 
   return (
 
-    <div className="container bg-black " >
+    <div className="bg-black ">
       <div className="font-bold text-3xl m-2">{aboutMeContent.name}</div>
       <div className="font-bold text-xl m-2">{aboutMeContent.role}</div>
       <div className="grid grid-rows-2 grid-flow-col gap-1 mb-2">
         <div className="flex flex-row content-evenly">
           <div className="m-1">
-            <FaSquarePhoneFlip />
           </div>
           <div>
-            {aboutMeContent.phone_number}
           </div>          
         </div>
         <div className="flex flex-row content-evenly">

@@ -19,7 +19,7 @@ export function Hero() {
           <div className="avatar"> 
             <div className="w-52 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2"> 
               <Image
-                src="/images/siteOwnerReduced.png"
+                src="/images/yosemite/yvalley.jpg"
                 height={200}
                 width={200}
                 alt="Image of Corbin Beebe"

@@ -1,7 +1,11 @@
 'use client'
 
 import { usePathname, useRouter } from "next/navigation"
-import Image from "next/image";
+import Link from 'next/link'
+import { FaLinkedin } from "react-icons/fa6";
+import { FaSquareGithub } from "react-icons/fa6";
+import { FaFileDownload } from "react-icons/fa";
+
 
 const navigationPaths = [
   {
@@ -47,7 +51,21 @@ export function Navigation() {
 
           </div>
           <div className="navbar-end">
-
+            <div className="flex flex-row">
+              <div className="mr-2">
+                <Link href="https://www.linkedin.com">
+                  <FaLinkedin size={50}/>                
+                </Link>
+              </div>
+              <div className="ml-2">
+                <Link href="https://www.github.com">
+                <FaSquareGithub size={50}/>
+                </Link>
+              </div>
+              <div>
+                {/* <FaFileDownload /> */}
+              </div>
+            </div>
           </div>
         </div>
       </div>
